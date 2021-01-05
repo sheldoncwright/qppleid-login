@@ -83,6 +83,7 @@ input[type='checkbox'] {
   font-size: 14px;
   min-width: 200px;
   color: rgba(0,0,0,.5);
+  -webkit-appearance: none;
 }
 .container input:nth-of-type(1) {
   border: 1px solid;
