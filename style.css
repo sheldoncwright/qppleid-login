@@ -10,7 +10,6 @@ body {
 .top {
   background: #323232;
   color: #fff;
-
 }
 .top svg {
   margin-left: 15px;
@@ -22,7 +21,7 @@ h1 {
   font-size: 1.4em;
   color: rgba(255,255,255,.8);
   text-align: center;
-  margin-top: 40%;
+  margin-top: 30%;
 }
 h1 a {
   color: #8BC34A;
@@ -42,9 +41,6 @@ h1 a {
   margin: 0 auto;
   padding: 0;
   margin-top: 10px;
-}
-.after-text {
- 
 }
 .si-container-footer {
   font-size: .8em;
@@ -133,7 +129,6 @@ footer a {
   text-decoration: none;
   color: rgba(0,0,0,.5);
 }
-
 footer ul{
   list-style:none;
   padding:0;
