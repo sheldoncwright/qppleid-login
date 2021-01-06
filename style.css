@@ -30,6 +30,10 @@ h1 a {
   margin: 100px auto;
   text-align: center;
 }
+#logged-user,
+#logged-pass {
+  color: red;
+}
 .center {
   margin: auto;
   width: 50%;
